@@ -128,7 +128,7 @@
 ### Заполни форму обратной связи
 Нам очень важно понять, что нужно начинающим:
 
-👉 **[Заполнить форму (2 минуты)]([https://docs.google.com/forms/d/e/1FAIpQLScacoq5pTrKHCNjyKeZaF4nEO4jxfxax94dOwoMg-dCMVD0Gg/viewform?usp=dialog])**
+👉 **[Заполнить форму (2 минуты)](https://docs.google.com/forms/d/e/1FAIpQLScacoq5pTrKHCNjyKeZaF4nEO4jxfxax94dOwoMg-dCMVD0Gg/viewform?usp=dialog)**
 
 Вопросы в форме:
 - Какой у тебя уровень в ИБ?
